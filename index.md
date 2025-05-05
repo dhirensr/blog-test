@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Thanks for Stopping By! 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I will use this blog for posting blog posts about small concepts that I regularly learn as part of hobby projects, on-the-job learning or anything out of curiousity.
